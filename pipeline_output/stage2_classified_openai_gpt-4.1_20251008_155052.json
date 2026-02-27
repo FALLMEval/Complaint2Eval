@@ -1,0 +1,267 @@
+[
+  {
+    "question": "Did the advisor clearly explain and document product features, benefits, risks, costs, limitations, and how they align with the client's financial needs and objectives?",
+    "title": "Product Explanation and Documentation",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the firm or advisor have adequate supervisory controls and systems to detect, monitor, and prevent unauthorized or unsuitable activities, including trading holds, delays, and recommendation patterns?",
+    "title": "Supervisory Controls for Detecting Unsuitable Activities",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor or firm avoid placing unnecessary administrative barriers to account transfers and ensure prompt execution of client-directed transactions when requested and permitted?",
+    "title": "Account Transfer Barriers and Transaction Execution",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor prioritize and execute client instructions over conflicting proprietary or firm interests, and avoid conflicts of interest, including personal or family relationships?",
+    "title": "Advisor Prioritization of Client Instructions and Conflict Avoidance",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor allow clients sufficient time to make informed decisions without applying pressure tactics or artificial urgency?",
+    "title": "Advisor Pressure and Decision Time",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor take appropriate steps to reduce portfolio risk or reassess suitability in response to significant market changes, even if met with client resistance?",
+    "title": "Advisor Response to Market Changes and Client Resistance",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor provide clear written warnings and maintain documentation when clients chose to maintain aggressive positions against recommendations?",
+    "title": "Advisor Warnings and Documentation for Aggressive Positions",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor adequately consider and respond to known negative developments affecting recommended investments?",
+    "title": "Advisor Response to Negative Developments in Recommendations",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor implement appropriate measures for recently bereaved clients, such as temporary conservative positioning or professional support before making long-term decisions?",
+    "title": "Measures for Bereaved Clients Prior to Long-term Decisions",
+    "category": "post-sale"
+  },
+  {
+    "question": "When multiple firms or representatives are involved, is there clear documentation of each party's role and responsibilities in ensuring suitability and supervision?",
+    "title": "Documentation of Party Roles in Suitability and Supervision",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor independently verify key investment assumptions and the property's fundamentals, including competitive position, beyond sponsor-provided materials?",
+    "title": "Verification of Investment Assumptions and Property Fundamentals",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor analyze and document how investment debt service obligations align with the client's income needs and risk capacity?",
+    "title": "Analysis of Investment Debt Service Alignment with Client Income and Risk",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor document specific client concerns, such as market volatility and income preservation, that justified recommending a particular product?",
+    "title": "Documentation of Client Concerns for Product Recommendation",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor evaluate and document alternative products with greater liquidity to address the client's market risk and withdrawal needs?",
+    "title": "Evaluation of Alternative Products for Liquidity and Market Risk",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor establish clear accountability and transition protocols when transferring account management responsibilities?",
+    "title": "Accountability and Transition Protocols in Account Transfer",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor verify and document that proposed tax-free exchanges met all qualifying requirements before execution?",
+    "title": "Verification of Tax-Free Exchange Requirements",
+    "category": "pre-sale"
+  },
+  {
+    "question": "For clients with existing loans against insurance policies, did the advisor evaluate and document multiple alternatives for addressing the loan situation beyond policy surrender?",
+    "title": "Evaluation of Alternatives to Policy Surrender for Loan",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor verify and document the client's accredited investor status using independent evidence?",
+    "title": "Accredited Investor Status Verification",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor consider the client's age and health status when determining investment time horizons and liquidity needs?",
+    "title": "Consideration of Client Age and Health in Investment Planning",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor verify that the recommended investment's actual risk level matches their characterization to the client?",
+    "title": "Verification of Investment Risk Characterization",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor verify the identity and authority of individuals making investment decisions, especially in accounts involving family relationships or conservatorships?",
+    "title": "Verification of Decision Maker Identity and Authority",
+    "category": "pre-sale"
+  },
+  {
+    "question": "For clients seeking income benefits, did the advisor compare the cost-effectiveness of different income generation strategies beyond just annuity living benefit riders?",
+    "title": "Comparison of Income Generation Strategies for Clients Seeking Income",
+    "category": "pre-sale"
+  },
+  {
+    "question": "When referring clients to other advisors, did the advisor conduct adequate due diligence and maintain appropriate documentation of the referral relationship?",
+    "title": "Advisor Referral Due Diligence and Documentation",
+    "category": "pre-sale"
+  },
+  {
+    "question": "For qualified plan transfers or rollovers, did the advisor analyze and document whether the new product's features, restrictions, fees, and benefits are appropriate for the client's retirement planning needs?",
+    "title": "Qualified Plan Transfer Suitability Assessment",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Are there established protocols for ongoing monitoring of approved private placement offerings and clear procedures for client communication if material issues arise?",
+    "title": "Ongoing Monitoring Protocols for Private Placements",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor document their analysis of correlation risks when recommending multiple investments in related market sectors?",
+    "title": "Documentation of Correlation Risk Analysis for Related Investments",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor properly terminate the relationship when the client's desired investment approach became incompatible with the firm's management philosophy?",
+    "title": "Advisor Termination Due to Incompatible Investment Approach",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor document the specific rationale for recommending short-term mutual fund trading given the associated costs and tax implications?",
+    "title": "Rationale Documentation for Short-Term Mutual Fund Recommendation",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor implement additional supervision protocols for elderly clients when recommending speculative investments?",
+    "title": "Supervision Protocols for Elderly Clients with Speculative Investments",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Are all tax withholding calculations and deductions accurately tracked and documented for client accounts?",
+    "title": "Tax Withholding Documentation Accuracy",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor maintain records showing they explained and received acknowledgment of the specific risks of using non-traditional collateral for investment loans?",
+    "title": "Risk Disclosure and Acknowledgment for Non-Traditional Collateral",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor assess and document the client's risk tolerance, investment objectives, and capacity for loss before making recommendations, and ensure that recommended strategies and products align with these factors?",
+    "title": "Assessment and Documentation of Client Risk Profile Prior to Recommendation",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor maintain detailed and contemporaneous records of client communications, risk discussions, investment rationale, and all relevant documentation supporting recommendations and client decisions?",
+    "title": "Recordkeeping of Client Communications and Recommendations",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor conduct and document comprehensive due diligence on investment products, underlying options, and third-party managers before making recommendations?",
+    "title": "Due Diligence on Products and Managers",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor evaluate and document the suitability and cost-effectiveness of recommended investments, including alternative products and fee-based accounts, relative to the client's needs and objectives?",
+    "title": "Suitability and Cost-Effectiveness Evaluation of Recommendations",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor properly disclose and obtain written acknowledgment of all fees, commissions, compensation structures, conflicts of interest, and relationships with other professionals involved in the transaction?",
+    "title": "Disclosure and Acknowledgment of Fees and Conflicts",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor coordinate with legal, tax, and compliance professionals as appropriate, and document the business necessity, tax implications, and regulatory compliance of recommended strategies?",
+    "title": "Coordination with Professionals and Documentation of Recommendations",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor obtain and document explicit client authorization and understanding for all transactions, account transfers, and changes in investment strategy, especially in non-discretionary or high-risk accounts?",
+    "title": "Client Authorization and Understanding Documentation",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor ensure that trading frequency, activity, and strategy (including use of margin) were appropriate and regularly reviewed for excessive activity, churning, and concentration risks?",
+    "title": "Trading Activity and Strategy Appropriateness Review",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor maintain appropriate portfolio diversification and monitor concentration risks, including sector, asset class, provider, geography, and real estate project types?",
+    "title": "Portfolio Diversification and Concentration Risk Monitoring",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor avoid making specific performance guarantees or promises about future investment returns or features that could not be guaranteed?",
+    "title": "Avoidance of Performance Guarantees",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor document and justify the rationale for recommending complex, high-risk, or illiquid products over simpler alternatives, especially when clients expressed interest in simplicity or capital preservation?",
+    "title": "Rationale Documentation for High-Risk Product Recommendation",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor evaluate and document the client's liquidity needs and ensure that recommended allocations to illiquid investments were appropriate?",
+    "title": "Evaluation of Client Liquidity Needs and Illiquid Investment Suitability",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor document and assess the client's professional background, investment experience, and product familiarity to support the recommendation's complexity?",
+    "title": "Assessment of Client Background and Product Familiarity",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor maintain a system to monitor and respond to significant short-term losses, market-driven losses, and ensure losses were consistent with the agreed-upon investment strategy?",
+    "title": "Monitoring and Responding to Investment Losses",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor conduct and document a forward-looking credit risk assessment, including issuer financial stability and credit quality, when recommending fixed-income securities?",
+    "title": "Forward-Looking Credit Risk Assessment for Fixed-Income Recommendation",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor maintain clear documentation of client communication regarding significant account activities, changes, and settlement agreements?",
+    "title": "Documentation of Client Communication on Account Changes",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor document the rationale for recommending the liquidation of securities to fund insurance products or other investment changes?",
+    "title": "Rationale Documentation for Liquidation Recommendation",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor document and justify significant changes in risk level, especially when replacing existing investments or recommending products with different risk characteristics?",
+    "title": "Documentation of Significant Risk Level Changes",
+    "category": "post-sale"
+  },
+  {
+    "question": "Did the advisor maintain appropriate professional boundaries and avoid personal financial transactions with clients?",
+    "title": "Advisor Professional Boundaries and Personal Transactions",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor provide a clear comparison between debt reduction and investment alternatives when making recommendations about existing debt?",
+    "title": "Comparison of Debt Reduction and Investment Alternatives",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor maintain objectivity in investment decisions by considering only relevant financial factors rather than emotional attachments?",
+    "title": "Advisor Objectivity in Investment Decisions",
+    "category": "pre-sale"
+  },
+  {
+    "question": "Did the advisor ensure proper transaction documentation and confirm the client's ability to monitor their investment through regular statements?",
+    "title": "Transaction Documentation and Investment Monitoring Confirmation",
+    "category": "pre-sale"
+  }
+]
