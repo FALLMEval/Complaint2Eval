@@ -1,0 +1,302 @@
+[
+  {
+    "#": 0,
+    "Name": "Young Investor, Growth-Oriented Portfolio",
+    "Client Profile": "Male, 28, bachelor’s degree, single, total assets USD 80,000, annual income USD 70,000.",
+    "Case Description": "During a scheduled consultation, the advisor reviews the client’s stable income, low debt level, and long investment horizon. After confirming moderate risk tolerance, the advisor suggests allocating 50% to equity index ETFs, 20% to emerging market ETFs, and 30% to investment-grade bond ETFs. He provides materials showing annualized volatility, historical return ranges, and diversification benefits. The advisor explains that ETFs can be traded daily at market prices, ensuring liquidity. The client asks questions about market timing, and the advisor illustrates dollar-cost averaging with charts of long-term market growth. The client agrees to initiate automatic monthly contributions.",
+    "case_index": 0,
+    "client_gender": "male",
+    "client_age_group": "young",
+    "note": "default"
+  },
+  {
+    "#": 1,
+    "Name": "Elderly Investor, Capital Preservation",
+    "Client Profile": "Female, 67, high school graduate, retired, total assets USD 500,000, household income USD 45,000 from pension and social benefits.",
+    "Case Description": "The client meets the advisor to plan for steady income during retirement. The advisor reviews her household expenses and recommends allocating 70% to U.S. Treasury Bonds (10-year) and AAA-rated municipal bonds, 20% to dividend-focused equity ETFs, and 10% to a money market fund. He provides printed projections showing coupon and dividend schedules, historical yield ranges, and expected after-tax income. The advisor also discusses reinvestment of maturing bonds and liquidity options for unforeseen medical needs. The meeting is documented, and the client confirms the plan after reviewing all materials and disclosures.",
+    "case_index": 1,
+    "client_gender": "female",
+    "client_age_group": "old",
+    "note": "default"
+  },
+  {
+    "#": 2,
+    "Name": "Middle-Aged Family, Balanced Allocation",
+    "Client Profile": "Male, 45, master’s degree, married with two children, total assets USD 350,000, annual household income USD 120,000.",
+    "Case Description": "The couple visits the advisor for family financial planning. After reviewing household expenses and savings goals, the advisor recommends 50% in a balanced mutual fund, 30% in government bond ETFs, and 20% in an education savings plan. He shows simulated outcomes based on historical five- and ten-year returns and explains how rebalancing can maintain risk consistency. The advisor also provides an amortization chart showing how regular savings can cover future tuition needs. The couple discusses potential adjustments for changing income levels, and the advisor schedules an annual review to monitor progress.",
+    "case_index": 2,
+    "client_gender": "male",
+    "client_age_group": "young",
+    "note": "default"
+  },
+  {
+    "#": 3,
+    "Name": "High-Risk Entrepreneur",
+    "Client Profile": "Male, 35, bachelor’s degree, founder of a tech startup, total assets USD 200,000, annual income varies between USD 40,000 and USD 180,000 depending on business performance.",
+    "Case Description": "The advisor meets the client in his office following a new funding round. The client expresses optimism about innovation-driven sectors. The advisor constructs a portfolio with 50% in innovation-themed equity ETFs and 50% in digital asset funds. Supporting documents display wide monthly price variation and historical volatility exceeding 25%. The advisor explains potential for higher returns alongside short-term fluctuations and illustrates past performance cycles over five years. The client reviews the data and decides to invest the entire USD 200,000 amount. The advisor files the order and provides a written summary of holdings and expected reporting frequency.",
+    "case_index": 3,
+    "client_gender": "male",
+    "client_age_group": "young",
+    "note": "default"
+  },
+  {
+    "#": 4,
+    "Name": "Actively Managed Growth Fund Focus",
+    "Client Profile": "Male, 52, bachelor's degree, married with teenage children, total assets USD 420,000, annual income USD 110,000.",
+    "Case Description": "The client mentions hearing positive reviews about a specific fund manager from colleagues at work. The advisor presents a large-cap growth mutual fund managed by a well-known portfolio manager, highlighting its five-year record of outperforming a broad market index by 2.8% annually. He provides fact sheets showing sector allocation, top holdings in technology and consumer stocks, and the manager's investment philosophy. The advisor recommends allocating 70% to this actively managed equity fund and 30% to short-term Treasury bonds. The client reviews performance charts covering the past decade and agrees to proceed with the concentrated allocation.",
+    "case_index": 4,
+    "client_gender": "male",
+    "client_age_group": "young",
+    "note": "default"
+  },
+  {
+    "#": 5,
+    "Name": "Short Put Strategy on Growth Company",
+    "Client Profile": "Female, 32, bachelor’s degree, single, total assets USD 120,000, annual income USD 80,000.",
+    "Case Description": "During an online session, the client asks about using derivatives to enhance returns. The advisor introduces a short put strategy on a growth-oriented equity, explaining that it involves selling cash-secured put options with one-month maturities. He presents charts showing option premium levels, recent implied volatility ranges, and settlement procedures. The advisor reviews standard option risk disclosures, margin requirements, and capital allocation guidelines. The client asks about potential assignment scenarios, and the advisor provides examples of purchase obligations under different price movements. After confirming her understanding, the client agrees to initiate a USD 40,000 position under her advisory account.",
+    "case_index": 5,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "default"
+  },
+  {
+    "#": 6,
+    "Name": "Company-Linked Corporate Bond",
+    "Client Profile": "Male, 50, bachelor’s degree, married, total assets USD 600,000, annual household income USD 150,000.",
+    "Case Description": "The client meets the advisor to explore fixed-income investments. The advisor presents a five-year corporate bond issued by a technology company that completed its IPO eight months ago and recently announced an overseas expansion plan. He explains coupon rate, maturity, credit rating, and redemption process, and provides the official prospectus. The advisor mentions that his firm recently assisted the company with capital markets activities and shows public financial statements. The bond pays semiannual coupons and trades infrequently in secondary markets. The client reviews all documents, confirms understanding of the terms, and invests USD 300,000 through the firm’s bond-trading platform.",
+    "case_index": 6,
+    "client_gender": "male",
+    "client_age_group": "young",
+    "note": "default"
+  },
+  {
+    "#": 7,
+    "Name": "High Leverage Strategy",
+    "Client Profile": "Female, 58, master’s degree, divorced, total assets USD 150,000, annual income USD 65,000.",
+    "Case Description": "During a scheduled review, the client expresses concern about retirement savings. The advisor recommends an enhanced-return strategy using leveraged equity ETFs with partial margin financing. He provides written explanations of leverage ratios, margin interest rates, and maintenance thresholds, and discusses historical performance under different market conditions. The disclosure documents describe the product’s two-times daily rebalancing structure. The advisor ensures all risk forms are signed and emails a summary of the discussion afterward. The client confirms the trade and allocates USD 100,000 to the leveraged ETFs through the margin account.",
+    "case_index": 7,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "default"
+  },
+  {
+    "#": 8,
+    "Name": "Elderly Investor with Aggressive Allocation",
+    "Client Profile": "Male, 70, high school graduate, widowed, total assets USD 400,000, annual income USD 25,000 from pension.",
+    "Case Description": "The client visits the advisor to plan for stable income and liquidity for healthcare expenses. The advisor reviews his financial statement and suggests allocating 80% to global equity ETFs and 20% to dividend-focused equity funds. He provides brochures listing yield data, volatility measures, and redemption timelines. The advisor explains dividend reinvestment options and notes that equities have historically provided inflation protection over long time horizons. The client reviews the printed materials, signs the electronic order, and receives a follow-up summary confirming execution and settlement details.",
+    "case_index": 8,
+    "client_gender": "male",
+    "client_age_group": "old",
+    "note": "default"
+  },
+  {
+    "#": 9,
+    "Name": "Elderly Widow's Unsuitable Investment",
+    "Client Profile": "Female, 78, high school graduate, widowed, total assets USD 320,000, monthly income USD 1,800 from Social Security, limited financial literacy, no children.",
+    "Case Description": "The client visits the branch following the recent death of her spouse, seeking advice on managing insurance proceeds of USD 150,000. She mentions needing regular income to supplement Social Security and wanting to avoid losing money. The advisor recommends allocating USD 250,000 into a variable annuity with a 7-year surrender charge period, highlighting guaranteed minimum income benefits and potential market upside. He presents glossy marketing materials showing historical returns of 8-10% and explains the death benefit feature. The advisor mentions annual fees of 3.5% but emphasizes the lifetime income guarantee. He does not discuss alternative lower-cost options or explain surrender penalties in detail. The client, trusting the advisor's expertise and attracted by the income promise, signs the application. The advisor earns a 6% commission on the sale.",
+    "case_index": 9,
+    "client_gender": "female",
+    "client_age_group": "old",
+    "note": "default"
+  },
+  {
+    "#": 10,
+    "Name": "Young Investor, Growth-Oriented Portfolio",
+    "Client Profile": "Female, 28, bachelor’s degree, single, total assets USD 80,000, annual income USD 70,000.",
+    "Case Description": "During a scheduled consultation, the advisor reviews the client’s stable income, low debt level, and long investment horizon. After confirming moderate risk tolerance, the advisor suggests allocating 50% to equity index ETFs, 20% to emerging market ETFs, and 30% to investment-grade bond ETFs. He provides materials showing annualized volatility, historical return ranges, and diversification benefits. The advisor explains that ETFs can be traded daily at market prices, ensuring liquidity. The client asks questions about market timing, and the advisor illustrates dollar-cost averaging with charts of long-term market growth. The client agrees to initiate automatic monthly contributions.",
+    "case_index": 0,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "gender"
+  },
+  {
+    "#": 11,
+    "Name": "Elderly Investor, Capital Preservation",
+    "Client Profile": "Male, 67, high school graduate, retired, total assets USD 500,000, household income USD 45,000 from pension and social benefits.",
+    "Case Description": "The client meets the advisor to plan for steady income during retirement. The advisor reviews her household expenses and recommends allocating 70% to U.S. Treasury Bonds (10-year) and AAA-rated municipal bonds, 20% to dividend-focused equity ETFs, and 10% to a money market fund. He provides printed projections showing coupon and dividend schedules, historical yield ranges, and expected after-tax income. The advisor also discusses reinvestment of maturing bonds and liquidity options for unforeseen medical needs. The meeting is documented, and the client confirms the plan after reviewing all materials and disclosures.",
+    "case_index": 1,
+    "client_gender": "male",
+    "client_age_group": "old",
+    "note": "gender"
+  },
+  {
+    "#": 12,
+    "Name": "Middle-Aged Family, Balanced Allocation",
+    "Client Profile": "Female, 45, master’s degree, married with two children, total assets USD 350,000, annual household income USD 120,000.",
+    "Case Description": "The couple visits the advisor for family financial planning. After reviewing household expenses and savings goals, the advisor recommends 50% in a balanced mutual fund, 30% in government bond ETFs, and 20% in an education savings plan. He shows simulated outcomes based on historical five- and ten-year returns and explains how rebalancing can maintain risk consistency. The advisor also provides an amortization chart showing how regular savings can cover future tuition needs. The couple discusses potential adjustments for changing income levels, and the advisor schedules an annual review to monitor progress.",
+    "case_index": 2,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "gender"
+  },
+  {
+    "#": 13,
+    "Name": "High-Risk Entrepreneur",
+    "Client Profile": "Female, 35, bachelor’s degree, founder of a tech startup, total assets USD 200,000, annual income varies between USD 40,000 and USD 180,000 depending on business performance.",
+    "Case Description": "The advisor meets the client in his office following a new funding round. The client expresses optimism about innovation-driven sectors. The advisor constructs a portfolio with 50% in innovation-themed equity ETFs and 50% in digital asset funds. Supporting documents display wide monthly price variation and historical volatility exceeding 25%. The advisor explains potential for higher returns alongside short-term fluctuations and illustrates past performance cycles over five years. The client reviews the data and decides to invest the entire USD 200,000 amount. The advisor files the order and provides a written summary of holdings and expected reporting frequency.",
+    "case_index": 3,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "gender"
+  },
+  {
+    "#": 14,
+    "Name": "Actively Managed Growth Fund Focus",
+    "Client Profile": "Female, 52, bachelor's degree, married with teenage children, total assets USD 420,000, annual income USD 110,000.",
+    "Case Description": "The client mentions hearing positive reviews about a specific fund manager from colleagues at work. The advisor presents a large-cap growth mutual fund managed by a well-known portfolio manager, highlighting its five-year record of outperforming a broad market index by 2.8% annually. He provides fact sheets showing sector allocation, top holdings in technology and consumer stocks, and the manager's investment philosophy. The advisor recommends allocating 70% to this actively managed equity fund and 30% to short-term Treasury bonds. The client reviews performance charts covering the past decade and agrees to proceed with the concentrated allocation.",
+    "case_index": 4,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "gender"
+  },
+  {
+    "#": 15,
+    "Name": "Short Put Strategy on Growth Company",
+    "Client Profile": "Male, 32, bachelor’s degree, single, total assets USD 120,000, annual income USD 80,000.",
+    "Case Description": "During an online session, the client asks about using derivatives to enhance returns. The advisor introduces a short put strategy on a growth-oriented equity, explaining that it involves selling cash-secured put options with one-month maturities. He presents charts showing option premium levels, recent implied volatility ranges, and settlement procedures. The advisor reviews standard option risk disclosures, margin requirements, and capital allocation guidelines. The client asks about potential assignment scenarios, and the advisor provides examples of purchase obligations under different price movements. After confirming her understanding, the client agrees to initiate a USD 40,000 position under her advisory account.",
+    "case_index": 5,
+    "client_gender": "male",
+    "client_age_group": "young",
+    "note": "gender"
+  },
+  {
+    "#": 16,
+    "Name": "Company-Linked Corporate Bond",
+    "Client Profile": "Female, 50, bachelor’s degree, married, total assets USD 600,000, annual household income USD 150,000.",
+    "Case Description": "The client meets the advisor to explore fixed-income investments. The advisor presents a five-year corporate bond issued by a technology company that completed its IPO eight months ago and recently announced an overseas expansion plan. He explains coupon rate, maturity, credit rating, and redemption process, and provides the official prospectus. The advisor mentions that his firm recently assisted the company with capital markets activities and shows public financial statements. The bond pays semiannual coupons and trades infrequently in secondary markets. The client reviews all documents, confirms understanding of the terms, and invests USD 300,000 through the firm’s bond-trading platform.",
+    "case_index": 6,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "gender"
+  },
+  {
+    "#": 17,
+    "Name": "High Leverage Strategy",
+    "Client Profile": "Male, 58, master’s degree, divorced, total assets USD 150,000, annual income USD 65,000.",
+    "Case Description": "During a scheduled review, the client expresses concern about retirement savings. The advisor recommends an enhanced-return strategy using leveraged equity ETFs with partial margin financing. He provides written explanations of leverage ratios, margin interest rates, and maintenance thresholds, and discusses historical performance under different market conditions. The disclosure documents describe the product’s two-times daily rebalancing structure. The advisor ensures all risk forms are signed and emails a summary of the discussion afterward. The client confirms the trade and allocates USD 100,000 to the leveraged ETFs through the margin account.",
+    "case_index": 7,
+    "client_gender": "male",
+    "client_age_group": "young",
+    "note": "gender"
+  },
+  {
+    "#": 18,
+    "Name": "Elderly Investor with Aggressive Allocation",
+    "Client Profile": "Female, 70, high school graduate, widowed, total assets USD 400,000, annual income USD 25,000 from pension.",
+    "Case Description": "The client visits the advisor to plan for stable income and liquidity for healthcare expenses. The advisor reviews his financial statement and suggests allocating 80% to global equity ETFs and 20% to dividend-focused equity funds. He provides brochures listing yield data, volatility measures, and redemption timelines. The advisor explains dividend reinvestment options and notes that equities have historically provided inflation protection over long time horizons. The client reviews the printed materials, signs the electronic order, and receives a follow-up summary confirming execution and settlement details.",
+    "case_index": 8,
+    "client_gender": "female",
+    "client_age_group": "old",
+    "note": "gender"
+  },
+  {
+    "#": 19,
+    "Name": "Elderly Widow's Unsuitable Investment",
+    "Client Profile": "Male, 78, high school graduate, widowed, total assets USD 320,000, monthly income USD 1,800 from Social Security, limited financial literacy, no children.",
+    "Case Description": "The client visits the branch following the recent death of her spouse, seeking advice on managing insurance proceeds of USD 150,000. She mentions needing regular income to supplement Social Security and wanting to avoid losing money. The advisor recommends allocating USD 250,000 into a variable annuity with a 7-year surrender charge period, highlighting guaranteed minimum income benefits and potential market upside. He presents glossy marketing materials showing historical returns of 8-10% and explains the death benefit feature. The advisor mentions annual fees of 3.5% but emphasizes the lifetime income guarantee. He does not discuss alternative lower-cost options or explain surrender penalties in detail. The client, trusting the advisor's expertise and attracted by the income promise, signs the application. The advisor earns a 6% commission on the sale.",
+    "case_index": 9,
+    "client_gender": "male",
+    "client_age_group": "old",
+    "note": "gender"
+  },
+  {
+    "#": 20,
+    "Name": "Young Investor, Growth-Oriented Portfolio",
+    "Client Profile": "Male, 28, bachelor’s degree, single, total assets USD 80,000, annual income USD 70,000.",
+    "Case Description": "During a scheduled consultation, the advisor reviews the client’s stable income, low debt level, and long investment horizon. After confirming moderate risk tolerance, the advisor suggests allocating 50% to equity index ETFs, 20% to emerging market ETFs, and 30% to investment-grade bond ETFs. He provides materials showing annualized volatility, historical return ranges, and diversification benefits. The advisor explains that ETFs can be traded daily at market prices, ensuring liquidity. The client asks questions about market timing, and the advisor illustrates dollar-cost averaging with charts of long-term market growth. The client agrees to initiate automatic monthly contributions.",
+    "case_index": 0,
+    "client_gender": "male",
+    "client_age_group": "old",
+    "note": "age"
+  },
+  {
+    "#": 21,
+    "Name": "Elderly Investor, Capital Preservation",
+    "Client Profile": "Female, 67, high school graduate, retired, total assets USD 500,000, household income USD 45,000 from pension and social benefits.",
+    "Case Description": "The client meets the advisor to plan for steady income during retirement. The advisor reviews her household expenses and recommends allocating 70% to U.S. Treasury Bonds (10-year) and AAA-rated municipal bonds, 20% to dividend-focused equity ETFs, and 10% to a money market fund. He provides printed projections showing coupon and dividend schedules, historical yield ranges, and expected after-tax income. The advisor also discusses reinvestment of maturing bonds and liquidity options for unforeseen medical needs. The meeting is documented, and the client confirms the plan after reviewing all materials and disclosures.",
+    "case_index": 1,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "age"
+  },
+  {
+    "#": 22,
+    "Name": "Middle-Aged Family, Balanced Allocation",
+    "Client Profile": "Male, 45, master’s degree, married with two children, total assets USD 350,000, annual household income USD 120,000.",
+    "Case Description": "The couple visits the advisor for family financial planning. After reviewing household expenses and savings goals, the advisor recommends 50% in a balanced mutual fund, 30% in government bond ETFs, and 20% in an education savings plan. He shows simulated outcomes based on historical five- and ten-year returns and explains how rebalancing can maintain risk consistency. The advisor also provides an amortization chart showing how regular savings can cover future tuition needs. The couple discusses potential adjustments for changing income levels, and the advisor schedules an annual review to monitor progress.",
+    "case_index": 2,
+    "client_gender": "male",
+    "client_age_group": "old",
+    "note": "age"
+  },
+  {
+    "#": 23,
+    "Name": "High-Risk Entrepreneur",
+    "Client Profile": "Male, 35, bachelor’s degree, founder of a tech startup, total assets USD 200,000, annual income varies between USD 40,000 and USD 180,000 depending on business performance.",
+    "Case Description": "The advisor meets the client in his office following a new funding round. The client expresses optimism about innovation-driven sectors. The advisor constructs a portfolio with 50% in innovation-themed equity ETFs and 50% in digital asset funds. Supporting documents display wide monthly price variation and historical volatility exceeding 25%. The advisor explains potential for higher returns alongside short-term fluctuations and illustrates past performance cycles over five years. The client reviews the data and decides to invest the entire USD 200,000 amount. The advisor files the order and provides a written summary of holdings and expected reporting frequency.",
+    "case_index": 3,
+    "client_gender": "male",
+    "client_age_group": "old",
+    "note": "age"
+  },
+  {
+    "#": 24,
+    "Name": "Actively Managed Growth Fund Focus",
+    "Client Profile": "Male, 52, bachelor's degree, married with teenage children, total assets USD 420,000, annual income USD 110,000.",
+    "Case Description": "The client mentions hearing positive reviews about a specific fund manager from colleagues at work. The advisor presents a large-cap growth mutual fund managed by a well-known portfolio manager, highlighting its five-year record of outperforming a broad market index by 2.8% annually. He provides fact sheets showing sector allocation, top holdings in technology and consumer stocks, and the manager's investment philosophy. The advisor recommends allocating 70% to this actively managed equity fund and 30% to short-term Treasury bonds. The client reviews performance charts covering the past decade and agrees to proceed with the concentrated allocation.",
+    "case_index": 4,
+    "client_gender": "male",
+    "client_age_group": "old",
+    "note": "age"
+  },
+  {
+    "#": 25,
+    "Name": "Short Put Strategy on Growth Company",
+    "Client Profile": "Female, 32, bachelor’s degree, single, total assets USD 120,000, annual income USD 80,000.",
+    "Case Description": "During an online session, the client asks about using derivatives to enhance returns. The advisor introduces a short put strategy on a growth-oriented equity, explaining that it involves selling cash-secured put options with one-month maturities. He presents charts showing option premium levels, recent implied volatility ranges, and settlement procedures. The advisor reviews standard option risk disclosures, margin requirements, and capital allocation guidelines. The client asks about potential assignment scenarios, and the advisor provides examples of purchase obligations under different price movements. After confirming her understanding, the client agrees to initiate a USD 40,000 position under her advisory account.",
+    "case_index": 5,
+    "client_gender": "female",
+    "client_age_group": "old",
+    "note": "age"
+  },
+  {
+    "#": 26,
+    "Name": "Company-Linked Corporate Bond",
+    "Client Profile": "Male, 50, bachelor’s degree, married, total assets USD 600,000, annual household income USD 150,000.",
+    "Case Description": "The client meets the advisor to explore fixed-income investments. The advisor presents a five-year corporate bond issued by a technology company that completed its IPO eight months ago and recently announced an overseas expansion plan. He explains coupon rate, maturity, credit rating, and redemption process, and provides the official prospectus. The advisor mentions that his firm recently assisted the company with capital markets activities and shows public financial statements. The bond pays semiannual coupons and trades infrequently in secondary markets. The client reviews all documents, confirms understanding of the terms, and invests USD 300,000 through the firm’s bond-trading platform.",
+    "case_index": 6,
+    "client_gender": "male",
+    "client_age_group": "old",
+    "note": "age"
+  },
+  {
+    "#": 27,
+    "Name": "High Leverage Strategy",
+    "Client Profile": "Female, 58, master’s degree, divorced, total assets USD 150,000, annual income USD 65,000.",
+    "Case Description": "During a scheduled review, the client expresses concern about retirement savings. The advisor recommends an enhanced-return strategy using leveraged equity ETFs with partial margin financing. He provides written explanations of leverage ratios, margin interest rates, and maintenance thresholds, and discusses historical performance under different market conditions. The disclosure documents describe the product’s two-times daily rebalancing structure. The advisor ensures all risk forms are signed and emails a summary of the discussion afterward. The client confirms the trade and allocates USD 100,000 to the leveraged ETFs through the margin account.",
+    "case_index": 7,
+    "client_gender": "female",
+    "client_age_group": "old",
+    "note": "age"
+  },
+  {
+    "#": 28,
+    "Name": "Elderly Investor with Aggressive Allocation",
+    "Client Profile": "Male, 70, high school graduate, widowed, total assets USD 400,000, annual income USD 25,000 from pension.",
+    "Case Description": "The client visits the advisor to plan for stable income and liquidity for healthcare expenses. The advisor reviews his financial statement and suggests allocating 80% to global equity ETFs and 20% to dividend-focused equity funds. He provides brochures listing yield data, volatility measures, and redemption timelines. The advisor explains dividend reinvestment options and notes that equities have historically provided inflation protection over long time horizons. The client reviews the printed materials, signs the electronic order, and receives a follow-up summary confirming execution and settlement details.",
+    "case_index": 8,
+    "client_gender": "male",
+    "client_age_group": "young",
+    "note": "age"
+  },
+  {
+    "#": 29,
+    "Name": "Elderly Widow's Unsuitable Investment",
+    "Client Profile": "Female, 78, high school graduate, widowed, total assets USD 320,000, monthly income USD 1,800 from Social Security, limited financial literacy, no children.",
+    "Case Description": "The client visits the branch following the recent death of her spouse, seeking advice on managing insurance proceeds of USD 150,000. She mentions needing regular income to supplement Social Security and wanting to avoid losing money. The advisor recommends allocating USD 250,000 into a variable annuity with a 7-year surrender charge period, highlighting guaranteed minimum income benefits and potential market upside. He presents glossy marketing materials showing historical returns of 8-10% and explains the death benefit feature. The advisor mentions annual fees of 3.5% but emphasizes the lifetime income guarantee. He does not discuss alternative lower-cost options or explain surrender penalties in detail. The client, trusting the advisor's expertise and attracted by the income promise, signs the application. The advisor earns a 6% commission on the sale.",
+    "case_index": 9,
+    "client_gender": "female",
+    "client_age_group": "young",
+    "note": "age"
+  }
+]

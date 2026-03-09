@@ -49,9 +49,33 @@ Open and run `Complaint2Eval.ipynb` to:
 
 **Output**: `data/criteria/evaluation_criteria.json`
 
+### Apply Criteria to Cases (Evaluation)
+
+Open and run `CaseEvaluation.ipynb` to:
+
+- Load evaluation criteria and financial advisory cases
+- Run batch evaluation across multiple LLMs
+- Collect and preprocess evaluation scores (A/B/C/D/NA)
+- Analyze validity, stability, and bias metrics
+
 ## Repository Structure
 
 - `Complaint2Eval.ipynb`: Complete pipeline implementation
+
+- `CaseEvaluation.ipynb`: Apply evaluation criteria to financial advisory cases across multiple LLMs
+
+- `utils/`: Supporting modules
+
+  - `scoring.py`: Batch evaluation orchestration and case data conversion
+  - `Evaluation.py`: Response preprocessing and integrity scoring (`EvaluationPreprocessor`)
+- `data/`:
+
+  - `constructedEval.json`: Generated evaluation criteria with rubrics
+  - `case_c2e.json`: Financial advisory case scenarios for evaluation
+
+- `output/`: Evaluation results and analysis
+
+    
 
 ## Citation
 ```bibtex
